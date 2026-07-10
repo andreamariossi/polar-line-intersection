@@ -12,3 +12,5 @@ jupyter notebook line_circle_intersection.ipynb
 - Numeric solver with independent verification
 - Slope-intercept form with closed-form b_left / b_right
 - Interactive sliders for r₀, θ₀, r_left, θ_left
+
+![Sketch](Sketch.png)
