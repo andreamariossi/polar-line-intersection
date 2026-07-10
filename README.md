@@ -14,3 +14,4 @@ jupyter notebook line_circle_intersection.ipynb
 - Interactive sliders for r₀, θ₀, r_left, θ_left
 
 ![Sketch](Sketch.png)
+<img src="Sketch.png" alt="Sketch" width="600">
