@@ -13,7 +13,5 @@ jupyter notebook line_circle_intersection.ipynb
 - Slope-intercept form with closed-form b_left / b_right
 - Interactive sliders for r₀, θ₀, r_left, θ_left
 
-![Sketch](Sketch.png)
 <img src="Sketch.png" alt="Sketch" width="150">
 
-<img src="Sketch.png" alt="Sketch" width="300">
